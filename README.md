@@ -1,4 +1,4 @@
-# pizza_AndroidStudio
+# Projet Mobile 4A : Pizzas
 
     Explication :
     -------------
