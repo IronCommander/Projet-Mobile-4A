@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="ordre">
+        <menu>
+            <item android:title="Alphabétique" android:id="@+id/nav_ordre_alphabetique"/>
+            <item android:title="Nombres d'ingrédients" android:id="@+id/nav_ordre_ingredient"/>
+            <item android:title="Nombres de vidéos" android:id="@+id/nav_ordre_video"/>
+            <item android:title="Nombres d'étapes" android:id="@+id/nav_ordre_etape"/>
+        </menu>
+    </item>
+    <item android:title="serveur">
+        <menu>
+            <item android:title="déconnection" android:id="@+id/nav_server_deconnect"/>
+        </menu>
+    </item>
+</menu>
